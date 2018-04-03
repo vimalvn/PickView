@@ -1,7 +1,7 @@
 package com.bruce.pickerview.popwindow;
 
-import com.brucetoo.pickview.BuildConfig;
-import com.brucetoo.pickview.MainActivity;
+import com.vimalvn.pickview.BuildConfig;
+import com.vimalvn.pickview.MainActivity;
 
 import org.junit.Before;
 import org.junit.Test;

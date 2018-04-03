@@ -1,10 +1,10 @@
-package com.brucetoo.pickview.provincepick.utils;
+package com.vimalvn.pickview.provincepick.utils;
 
 import android.content.Context;
 import android.os.AsyncTask;
 import android.os.Handler;
 
-import com.brucetoo.pickview.provincepick.ProvinceModel;
+import com.vimalvn.pickview.provincepick.ProvinceModel;
 
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;

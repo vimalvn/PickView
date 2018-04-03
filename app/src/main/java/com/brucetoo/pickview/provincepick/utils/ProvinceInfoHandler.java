@@ -1,8 +1,8 @@
-package com.brucetoo.pickview.provincepick.utils;
+package com.vimalvn.pickview.provincepick.utils;
 
 
-import com.brucetoo.pickview.provincepick.CityModel;
-import com.brucetoo.pickview.provincepick.ProvinceModel;
+import com.vimalvn.pickview.provincepick.CityModel;
+import com.vimalvn.pickview.provincepick.ProvinceModel;
 
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;

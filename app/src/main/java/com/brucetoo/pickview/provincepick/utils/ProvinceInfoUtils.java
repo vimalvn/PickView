@@ -1,10 +1,10 @@
-package com.brucetoo.pickview.provincepick.utils;
+package com.vimalvn.pickview.provincepick.utils;
 
 import android.content.Context;
 import android.content.res.Resources;
 
-import com.brucetoo.pickview.provincepick.CityModel;
-import com.brucetoo.pickview.provincepick.ProvinceModel;
+import com.vimalvn.pickview.provincepick.CityModel;
+import com.vimalvn.pickview.provincepick.ProvinceModel;
 
 import java.util.ArrayList;
 

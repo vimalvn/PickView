@@ -1,4 +1,4 @@
-package com.brucetoo.pickview;
+package com.vimalvn.pickview;
 
 import android.graphics.Color;
 import android.os.Bundle;

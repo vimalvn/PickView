@@ -1,4 +1,4 @@
-package com.brucetoo.pickview;
+package com.vimalvn.pickview;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

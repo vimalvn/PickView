@@ -1,4 +1,4 @@
-package com.brucetoo.pickview.provincepick;
+package com.vimalvn.pickview.provincepick;
 
 import org.junit.Before;
 import org.junit.Test;

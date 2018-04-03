@@ -1,7 +1,7 @@
-package com.brucetoo.pickview.provincepick;
+package com.vimalvn.pickview.provincepick;
 
 
-import com.brucetoo.pickview.view.PickerItem;
+import com.vimalvn.pickview.view.PickerItem;
 
 import java.util.ArrayList;
 import java.util.List;

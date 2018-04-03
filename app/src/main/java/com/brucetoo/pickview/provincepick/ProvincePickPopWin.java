@@ -1,4 +1,4 @@
-package com.brucetoo.pickview.provincepick;
+package com.vimalvn.pickview.provincepick;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -18,10 +18,10 @@ import android.view.animation.TranslateAnimation;
 import android.widget.Button;
 import android.widget.PopupWindow;
 
-import com.brucetoo.pickview.R;
-import com.brucetoo.pickview.provincepick.utils.ProvinceInfoParserTask;
-import com.brucetoo.pickview.view.PickerItem;
-import com.brucetoo.pickview.view.PickerView;
+import com.vimalvn.pickview.R;
+import com.vimalvn.pickview.provincepick.utils.ProvinceInfoParserTask;
+import com.vimalvn.pickview.view.PickerItem;
+import com.vimalvn.pickview.view.PickerView;
 
 import java.util.ArrayList;
 import java.util.List;

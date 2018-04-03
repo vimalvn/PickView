@@ -95,7 +95,7 @@ Add more custom attributes, Just see below  version 1.1.1
 
 ```java 
 
-   compile 'com.brucetoo.pickview:library:1.2.3'
+   compile 'com.vimalvn.pickview:library:1.2.3'
  
 ```
 

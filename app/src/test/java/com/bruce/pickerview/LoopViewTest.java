@@ -2,7 +2,7 @@ package com.bruce.pickerview;
 
 import android.graphics.Canvas;
 
-import com.brucetoo.pickview.MainActivity;
+import com.vimalvn.pickview.MainActivity;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -18,7 +18,7 @@ import java.util.Arrays;
 import static org.junit.Assert.assertEquals;
 
 @RunWith(RobolectricGradleTestRunner.class)
-@Config(constants = com.brucetoo.pickview.BuildConfig.class, sdk = 21, manifest = "app/src/main/AndroidManifest.xml")
+@Config(constants = com.vimalvn.pickview.BuildConfig.class, sdk = 21, manifest = "app/src/main/AndroidManifest.xml")
 public class LoopViewTest {
 
     private LoopView loopView;

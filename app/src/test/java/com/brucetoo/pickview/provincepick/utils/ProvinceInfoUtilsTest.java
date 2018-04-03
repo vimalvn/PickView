@@ -1,9 +1,9 @@
-package com.brucetoo.pickview.provincepick.utils;
+package com.vimalvn.pickview.provincepick.utils;
 
 import android.content.Context;
-import com.brucetoo.pickview.provincepick.PickViewTestSupport;
-import com.brucetoo.pickview.provincepick.CityModel;
-import com.brucetoo.pickview.provincepick.ProvinceModel;
+import com.vimalvn.pickview.provincepick.PickViewTestSupport;
+import com.vimalvn.pickview.provincepick.CityModel;
+import com.vimalvn.pickview.provincepick.ProvinceModel;
 
 import org.junit.Test;
 import org.mockito.Mockito;

@@ -1,7 +1,7 @@
-package com.brucetoo.pickview.provincepick;
+package com.vimalvn.pickview.provincepick;
 
-import com.brucetoo.pickview.provincepick.CityModel;
-import com.brucetoo.pickview.provincepick.ProvinceModel;
+import com.vimalvn.pickview.provincepick.CityModel;
+import com.vimalvn.pickview.provincepick.ProvinceModel;
 
 import java.util.ArrayList;
 import java.util.Collections;
